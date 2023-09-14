@@ -16,8 +16,8 @@ This is a solution to the [QR Code Component Challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NelPascual/order-summary-component)
-- Live Site URL: [Add live site URL here](https://order-summary-card-nelpascual.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/NelPascual/qr-code-component)
+- Live Site URL: [Add live site URL here](https://qr-code-component-nelpascual.netlify.app/)
 
 ## My process
 
